@@ -1,0 +1,80 @@
+.main {
+  height: 500px;
+  background-image: url("../images/-_Featuded_Image.jpg");
+  top: 0;
+  position: absolute;
+  margin-top: 0px;
+}
+
+#companyname {
+  color: #ffffff;
+  position: relative;
+  height: 10px;
+  top: 150px;
+  text-align: center;
+  font-family: initial;
+  font-size: x-large;
+}
+
+#description {
+  color: #ffffff;
+  position: relative;
+  height: 10px;
+  text-align: center;
+  font-family: initial;
+  font-size: 20px;
+  top: 170px;
+}
+
+.content {
+  color: #000000;
+  position: relative;
+  height: 260px;
+  top: 550px;
+  left: 4%;
+  background-repeat: no-repeat;
+  width: 25%;
+  border-radius: 18px;
+}
+
+.heading {
+  text-align: center;
+  position: relative;
+  top: 150px;
+  font-family: initial;
+  font-size: xx-large;
+  color: #ffffff;
+}
+
+.aboutushead {
+  text-align: center;
+  position: relative;
+  top: 510px;
+  font-family: initial;
+  font-size: xx-large;
+  color: #6666f7;
+}
+
+.aboutus {
+  text-align: center;
+  position: relative;
+  top: 505px;
+  font-family: initial;
+  font-size: larger;
+}
+footer {
+  position: absolute;
+  bottom: 0;
+  height: 100px;
+  background: rgb(104, 117, 238);
+  width: 100%;
+  padding-top: 10px;
+}
+
+
+
+
+
+
+
+
