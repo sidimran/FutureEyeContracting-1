@@ -40,21 +40,17 @@
 .page-container {
   display: flex;
   flex-direction: column;
-  min-height: 100vh;
+  min-height:100vh;
 }
 .content-wrap {
   flex: 1;
 }
 
-.card{
-  z-index: 1;
-  top: 500px;
-  position: relative;
-}
 
-footer {
+
+/* footer {
   background: yellow;
   height: 100px;
   z-index: 1;
-}
+} */
 

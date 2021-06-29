@@ -56,12 +56,12 @@ const Portfolio = () => {
           <p>Email id : sidimran4455@gmail.com</p>
         </div>
       </footer> */}
-
+{/* 
 
       <div class="d-flex flex-column fixed-bottom">
     <div class="wrapper flex-grow-2"></div>
     <footer></footer>
-</div>
+</div> */}
 
       {/* <div className="footer fixed-bottom ">
  <p>Footer</p>

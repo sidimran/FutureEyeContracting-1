@@ -1,14 +1,16 @@
 import "./App.css";
 import Portfolio from "./Components/Portfolio";
-import "font-awesome/css/font-awesome.css";
 import ProductCard from "./Components/ProductsCard";
+import Footer from "./Components/Footer";
 
 function App() {
   return (
-    <div className="App">
+    <div className="page-container">
+    <div className="content-wrap">
       <Portfolio />
       <ProductCard />
-
+      <Footer />
+</div>
     
     </div>
   );
