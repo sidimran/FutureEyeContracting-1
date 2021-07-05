@@ -4,7 +4,7 @@ import 'font-awesome/css/font-awesome.min.css';
 
 function Footer() {
   return (
-    <div className="main-footer ">
+    <div className="main-footer">
       <div className="container-fluid">
 
       
@@ -32,8 +32,8 @@ function Footer() {
             <h4 className = "pt-5">GET IN TOUCH</h4>
             <ul className="list-unstyled">
               <li>futureeyeblr2020@gmail.com</li>
-              <li>+91 9886831834</li>
-              <li>+91 9482581834</li>
+              <li><a href="https://api.whatsapp.com/send?phone=+919886831834"> <i className="fa fa-whatsapp text-light" aria-hidden="true"></i></a>   +91 9886831834</li>
+              <li><a href="https://api.whatsapp.com/send?phone=+919482581834"> <i className="fa fa-whatsapp text-light" aria-hidden="true"></i></a>   +91 9482581834</li>
             </ul>
           </div>
         </div>

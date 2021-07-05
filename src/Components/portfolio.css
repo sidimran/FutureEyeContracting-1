@@ -1,9 +1,11 @@
 .main {
   height: 500px;
-  background-image: url("../images/-_Featuded_Image.jpg");
+  background-image: url("../images/office.jpg");
   top: 0;
   position: absolute;
   margin-top: 0px;
+  background-repeat: no-repeat;
+  
 }
 
 #companyname {
@@ -23,7 +25,7 @@
   text-align: center;
   font-family: initial;
   font-size: 20px;
-  top: 170px;
+  top: 80px;
 }
 
 .content {
@@ -40,10 +42,10 @@
 .heading {
   text-align: center;
   position: relative;
-  top: 150px;
+  top: 60px;
   font-family: initial;
   font-size: xx-large;
-  color: #ffffff;
+  color:#214086;
 }
 
 .aboutushead {
@@ -52,7 +54,7 @@
   top: 510px;
   font-family: initial;
   font-size: xx-large;
-  color: #6666f7;
+  color:#00aef1;
 }
 
 .aboutus {
@@ -62,14 +64,7 @@
   font-family: initial;
   font-size: larger;
 }
-footer {
-  position: absolute;
-  bottom: 0;
-  height: 100px;
-  background: rgb(104, 117, 238);
-  width: 100%;
-  padding-top: 10px;
-}
+
 
 .card{
   z-index: 1;
