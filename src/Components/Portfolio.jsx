@@ -16,7 +16,7 @@ const Portfolio = () => {
               <br />
               Technical AND
               <br />
-              INFRASTRUCTURE
+              Management
             </p>
           </div>
         </div>
