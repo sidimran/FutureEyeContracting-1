@@ -11,14 +11,15 @@ const ProductCard = () => {
   }, []);
 
   return (
-    <div className="container-fluid row d-flex justify-content-center ">
+    <div className="container-fluid row justify-content-center " style={{marginLeft:'4px'}}>
       {productdatas.map((product) => (
         <div className="card mr-1 mt-3 col-md-3 bg-info" key={product._id}>
           <img
             src={product.image}
             className="card-img-top rounded mt-2 "
             height="200px"
-            width="30px"
+            width="40px"
+            
             alt={product.img}
           />
           <div className="card-body">
