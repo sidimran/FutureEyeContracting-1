@@ -11,7 +11,7 @@ const ProductCard = () => {
   }, []);
 
   return (
-    <div className="container-fluid row justify-content-center " style={{marginLeft:'4px'}}>
+    <div className="container-fluid row justify-content-center " style={{marginLeft:'0px'}}>
       {productdatas.map((product) => (
         <div className="card mr-1 mt-3 col-md-3 bg-info" key={product._id}>
           <img

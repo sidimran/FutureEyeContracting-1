@@ -11,7 +11,9 @@ import imagescard7 from "../../images/StainlessSteel.jpeg";
 import imagescard8 from  "../../images/Mildsteel.jpeg"
 import imagescard9 from  "../../images/alluminiumlouverwithfix.jpeg"
 import imagescard10 from  "../../images/alluminiumfixwindow.jpeg"
-import imagescard11 from  "../../images/AlluminiumSkylit.jpg"
+import imagescard11 from "../../images/AlluminiumSkylit.jpg"
+
+
 
 let product = [
   {

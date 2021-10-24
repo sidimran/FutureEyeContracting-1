@@ -6,7 +6,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 const Portfolio = () => {
   return (
     <>
-      <div className="container-fluid d-flex justify-content-around main">
+      <div className="container-fluid justify-content-around main">
         <div className="row">
           <div className="col col-sm col-lg-auto ">
             <h1 className="heading">Future Eye Contracting</h1>
@@ -18,6 +18,7 @@ const Portfolio = () => {
               <br />
               Management
             </p>
+         
           </div>
         </div>
       </div>
@@ -27,8 +28,8 @@ const Portfolio = () => {
           <div className="col col-sm col-lg col-md col-xxl">
             <h1 className="aboutushead"> About us</h1>
             <p className="aboutus">
-              <b style={{color:'green'}}>Specialist in :</b>Aluminius Glass - UPVC - PVC Doors Windows &
-              Office Partition.
+              <b style={{ color: "green" }}>Specialist in :</b>Aluminius Glass -
+              UPVC - PVC Doors Windows & Office Partition.
               <br /> Electrical Plumbing - A/C - TV Installations - POP
               -Stainless Steel - Mild Steet Works
             </p>
