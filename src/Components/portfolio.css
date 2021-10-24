@@ -1,6 +1,6 @@
 .main {
   height: 500px;
-  background-image: url("../images/nastuh-abootalebi-ZtC4_rPCRXA-unsplash1.jpg");
+  background-image: url("../images/office.jpg");
   top: 0;
   position: absolute;
   margin-top: 0px;
@@ -19,36 +19,17 @@
 }
 
 #description {
-  color: #ffffff;
+  color:#212529;
   position:relative;
   height: 10px;
   font-family: initial;
   font-size: 20px;
-  top: 150px;
+  top: 40px;
   text-align: left;
   left: 75px;
 }
 
-#details{
-  color: #ffffff;
-  position:relative;
-  height: 10px;
-  font-family: initial;
-  font-size: 20px;
-  top: 250px;
-  text-align: left;
-  left: 0px;
-}
 
-#email{
-  color: #ffffff;
-  position:relative;
-  height: 10px;
-  font-family: initial;
-  font-size: 20px;
-  text-align: left;
-  left: 90px;
-}
 .content {
   color: #000000;
   position: relative;
@@ -63,12 +44,12 @@
 
 
 .heading {
-  text-align: left;
+  text-align:center;
   position: relative;
-  top: 144px;
+  top: 35px;
   font-family: initial;
   font-size: xx-large;
-  color:#ffffff;
+  color:#050b56
 }
 
 .aboutushead {

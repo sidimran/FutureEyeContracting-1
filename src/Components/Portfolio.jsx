@@ -6,7 +6,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 const Portfolio = () => {
   return (
     <>
-      <div className="container-fluid justify-content-around main">
+      <div className="container-fluid d-flex justify-content-around main">
         <div className="row">
           <div className="col col-sm col-lg-auto ">
             <h1 className="heading">Future Eye Contracting</h1>
